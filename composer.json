@@ -1,5 +1,5 @@
 {
-    "name": "jackiedo/dotenv-editor",
+    "name": "omgTheKing/dotenv-editor",
     "description": "The .env file editor tool for Laravel 5.8+",
     "license": "MIT",
     "keywords": ["laravel", "dotenv", "dotenv-editor"],
@@ -21,9 +21,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.x-dev"
-        },
         "laravel": {
             "providers": [
                 "Jackiedo\\DotenvEditor\\DotenvEditorServiceProvider"
